@@ -1,0 +1,77 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "case",
+    "children" : [ {
+      "name" : "test_addcompany",
+      "children" : [ {
+        "name" : "TestAddCompany",
+        "children" : [ {
+          "name" : "test_addCompany",
+          "uid" : "4b78b20b63cec2b1",
+          "parentUid" : "184b69796cbb45bd8b59688acb998f82",
+          "status" : "passed",
+          "time" : {
+            "start" : 1644938331774,
+            "stop" : 1644938359588,
+            "duration" : 27814
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "184b69796cbb45bd8b59688acb998f82"
+      } ],
+      "uid" : "8d4c78d3e6aae92dc8b93cc47d0273ed"
+    }, {
+      "name" : "test_login",
+      "children" : [ {
+        "name" : "TestLogin",
+        "children" : [ {
+          "name" : "test_sc_login[data0]",
+          "uid" : "53363e166a4721a2",
+          "parentUid" : "b6273d70d64e7ed060deb8bfe2517c9a",
+          "status" : "broken",
+          "time" : {
+            "start" : 1644938363707,
+            "stop" : 1644938370156,
+            "duration" : 6449
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'用户名': 'liming', '密码': '12345'}" ]
+        }, {
+          "name" : "test_sc_login[data1]",
+          "uid" : "69d5b18306603b27",
+          "parentUid" : "b6273d70d64e7ed060deb8bfe2517c9a",
+          "status" : "broken",
+          "time" : {
+            "start" : 1644938372669,
+            "stop" : 1644938378890,
+            "duration" : 6221
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'用户名': 'lzc4014688', '密码': '123456678'}" ]
+        }, {
+          "name" : "test_sc_login[data2]",
+          "uid" : "7ec34791202b9127",
+          "parentUid" : "b6273d70d64e7ed060deb8bfe2517c9a",
+          "status" : "passed",
+          "time" : {
+            "start" : 1644938381357,
+            "stop" : 1644938387593,
+            "duration" : 6236
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'用户名': 'admin', '密码': 'lzc4014688'}" ]
+        } ],
+        "uid" : "b6273d70d64e7ed060deb8bfe2517c9a"
+      } ],
+      "uid" : "4d35a481a77822d65b097aa3a55b4f11"
+    } ],
+    "uid" : "7559db31629684e5f31176d189a833ac"
+  } ]
+}

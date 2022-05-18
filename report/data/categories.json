@@ -1,0 +1,39 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "selenium.common.exceptions.UnexpectedAlertPresentException: Alert Text: 登录失败，请检查您的用户名或密码是否填写正确。\nMessage: unexpected alert open: {Alert text : 登录失败，请检查您的用户名或密码是否填写正确。}\n  (Session info: chrome=98.0.4758.82)\nStacktrace:\nBacktrace:\n\tOrdinal0 [0x00F87AC3+2587331]\n\tOrdinal0 [0x00F1ADD1+2141649]\n\tOrdinal0 [0x00E13BB8+1063864]\n\tOrdinal0 [0x00E6884B+1411147]\n\tOrdinal0 [0x00E584A6+1344678]\n\tOrdinal0 [0x00E353F6+1201142]\n\tOrdinal0 [0x00E362E6+1204966]\n\tGetHandleVerifier [0x0112DF22+1680738]\n\tGetHandleVerifier [0x011E0DBC+2413564]\n\tGetHandleVerifier [0x0101D151+563089]\n\tGetHandleVerifier [0x0101BF13+558419]\n\tOrdinal0 [0x00F2081E+2164766]\n\tOrdinal0 [0x00F25508+2184456]\n\tOrdinal0 [0x00F25650+2184784]\n\tOrdinal0 [0x00F2F5BC+2225596]\n\tBaseThreadInitThunk [0x76CF6359+25]\n\tRtlGetAppContainerNamedObjectPath [0x77AB7B74+228]\n\tRtlGetAppContainerNamedObjectPath [0x77AB7B44+180]",
+      "children" : [ {
+        "name" : "test_sc_login[data0]",
+        "uid" : "53363e166a4721a2",
+        "parentUid" : "a2be93336cdbe883720e8152e2e62e4b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644938363707,
+          "stop" : 1644938370156,
+          "duration" : 6449
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'用户名': 'liming', '密码': '12345'}" ]
+      }, {
+        "name" : "test_sc_login[data1]",
+        "uid" : "69d5b18306603b27",
+        "parentUid" : "a2be93336cdbe883720e8152e2e62e4b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644938372669,
+          "stop" : 1644938378890,
+          "duration" : 6221
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'用户名': 'lzc4014688', '密码': '123456678'}" ]
+      } ],
+      "uid" : "a2be93336cdbe883720e8152e2e62e4b"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

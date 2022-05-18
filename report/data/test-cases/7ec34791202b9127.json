@@ -1,0 +1,246 @@
+{
+  "uid" : "7ec34791202b9127",
+  "name" : "test_sc_login[data2]",
+  "fullName" : "case.test_login.TestLogin#test_sc_login",
+  "historyId" : "a6173ced816beea95dd979b33bc1541f",
+  "time" : {
+    "start" : 1644938381357,
+    "stop" : 1644938387593,
+    "duration" : 6236
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "xunit_setup_class_fixture_TestLogin",
+    "time" : {
+      "start" : 1644938361961,
+      "stop" : 1644938363707,
+      "duration" : 1746
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "输入登录名",
+      "time" : {
+        "start" : 1644938381357,
+        "stop" : 1644938381421,
+        "duration" : 64
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "输入密码",
+      "time" : {
+        "start" : 1644938382421,
+        "stop" : 1644938382490,
+        "duration" : 69
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "点击保持登录",
+      "time" : {
+        "start" : 1644938382490,
+        "stop" : 1644938382529,
+        "duration" : 39
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "点击登录按钮",
+      "time" : {
+        "start" : 1644938382529,
+        "stop" : 1644938382568,
+        "duration" : 39
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "是否有alert弹窗",
+      "time" : {
+        "start" : 1644938383568,
+        "stop" : 1644938383571,
+        "duration" : 3
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "检查是否登录成功",
+      "time" : {
+        "start" : 1644938387571,
+        "stop" : 1644938387593,
+        "duration" : 22
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 6,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "xunit_setup_class_fixture_TestLogin::0",
+    "time" : {
+      "start" : 1644938389944,
+      "stop" : 1644938392017,
+      "duration" : 2073
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "禅道登录用例"
+  }, {
+    "name" : "story",
+    "value" : "输入用户名和密码"
+  }, {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-TSJF9CB"
+  }, {
+    "name" : "thread",
+    "value" : "14316-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "data",
+    "value" : "{'用户名': 'admin', '密码': 'lzc4014688'}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 4,
+        "skipped" : 0,
+        "passed" : 1,
+        "unknown" : 0,
+        "total" : 5
+      },
+      "items" : [ {
+        "uid" : "2b634dfb8cc9d97f",
+        "reportUrl" : "http://localhost:8080/job/test/72/allure/#testresult/2b634dfb8cc9d97f",
+        "status" : "broken",
+        "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: 'chromedriver' executable needs to be in PATH. Please see https://chromedriver.chromium.org/home",
+        "time" : {
+          "start" : 1644937843773,
+          "stop" : 1644937843773,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "ddcb5f39da380bd",
+        "reportUrl" : "http://localhost:8080/job/test/71/allure/#testresult/ddcb5f39da380bd",
+        "status" : "broken",
+        "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: 'chromedriver' executable needs to be in PATH. Please see https://chromedriver.chromium.org/home",
+        "time" : {
+          "start" : 1644937806327,
+          "stop" : 1644937806327,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "e160125e13d64bd3",
+        "reportUrl" : "http://localhost:8080/job/test/70/allure/#testresult/e160125e13d64bd3",
+        "status" : "broken",
+        "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: 'chromedriver' executable needs to be in PATH. Please see https://chromedriver.chromium.org/home",
+        "time" : {
+          "start" : 1644774675790,
+          "stop" : 1644774675791,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "220e3a9867b891a8",
+        "reportUrl" : "http://localhost:8080/job/test/52/allure/#testresult/220e3a9867b891a8",
+        "status" : "broken",
+        "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: 'chromedriver' executable needs to be in PATH. Please see https://chromedriver.chromium.org/home",
+        "time" : {
+          "start" : 1644771781670,
+          "stop" : 1644771781670,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "7ec34791202b9127.json",
+  "parameterValues" : [ "{'用户名': 'admin', '密码': 'lzc4014688'}" ]
+}

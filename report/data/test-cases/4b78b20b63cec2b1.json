@@ -1,0 +1,318 @@
+{
+  "uid" : "4b78b20b63cec2b1",
+  "name" : "test_addCompany",
+  "fullName" : "case.test_addcompany.TestAddCompany#test_addCompany",
+  "historyId" : "25447551129b1fb0e5a41023583749cd",
+  "time" : {
+    "start" : 1644938331774,
+    "stop" : 1644938359588,
+    "duration" : 27814
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "xunit_setup_class_fixture_TestAddCompany",
+    "time" : {
+      "start" : 1644938329605,
+      "stop" : 1644938331773,
+      "duration" : 2168
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "登录",
+      "time" : {
+        "start" : 1644938331774,
+        "stop" : 1644938336986,
+        "duration" : 5212
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "进入首页点击组织",
+      "time" : {
+        "start" : 1644938339986,
+        "stop" : 1644938340707,
+        "duration" : 721
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "点击公司",
+      "time" : {
+        "start" : 1644938342708,
+        "stop" : 1644938342908,
+        "duration" : 200
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "点击编辑",
+      "time" : {
+        "start" : 1644938344909,
+        "stop" : 1644938344969,
+        "duration" : 60
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "切换到ifram",
+      "time" : {
+        "start" : 1644938346970,
+        "stop" : 1644938347021,
+        "duration" : 51
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "输入公司名称",
+      "time" : {
+        "start" : 1644938349022,
+        "stop" : 1644938349145,
+        "duration" : 123
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "输入公司联系电话",
+      "time" : {
+        "start" : 1644938351145,
+        "stop" : 1644938351281,
+        "duration" : 136
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "输入通讯地址",
+      "time" : {
+        "start" : 1644938353282,
+        "stop" : 1644938353389,
+        "duration" : 107
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "是否允许匿名登录",
+      "time" : {
+        "start" : 1644938355389,
+        "stop" : 1644938355469,
+        "duration" : 80
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "点击保存",
+      "time" : {
+        "start" : 1644938357470,
+        "stop" : 1644938357545,
+        "duration" : 75
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "检查是否编辑成功",
+      "time" : {
+        "start" : 1644938359546,
+        "stop" : 1644938359588,
+        "duration" : 42
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 11,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "xunit_setup_class_fixture_TestAddCompany::0",
+    "time" : {
+      "start" : 1644938359589,
+      "stop" : 1644938361835,
+      "duration" : 2246
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "添加公司名称"
+  }, {
+    "name" : "story",
+    "value" : "登录后添加公司信息"
+  }, {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "test_addcompany"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestAddCompany"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-TSJF9CB"
+  }, {
+    "name" : "thread",
+    "value" : "14316-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.test_addcompany"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 4,
+        "skipped" : 0,
+        "passed" : 1,
+        "unknown" : 0,
+        "total" : 5
+      },
+      "items" : [ {
+        "uid" : "abd5a4ade1b70f9d",
+        "reportUrl" : "http://localhost:8080/job/test/72/allure/#testresult/abd5a4ade1b70f9d",
+        "status" : "broken",
+        "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: 'chromedriver' executable needs to be in PATH. Please see https://chromedriver.chromium.org/home",
+        "time" : {
+          "start" : 1644937843508,
+          "stop" : 1644937843508,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "85eb1eef30ca6a09",
+        "reportUrl" : "http://localhost:8080/job/test/71/allure/#testresult/85eb1eef30ca6a09",
+        "status" : "broken",
+        "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: 'chromedriver' executable needs to be in PATH. Please see https://chromedriver.chromium.org/home",
+        "time" : {
+          "start" : 1644937806045,
+          "stop" : 1644937806045,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "2dda6326ed9f33a6",
+        "reportUrl" : "http://localhost:8080/job/test/70/allure/#testresult/2dda6326ed9f33a6",
+        "status" : "broken",
+        "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: 'chromedriver' executable needs to be in PATH. Please see https://chromedriver.chromium.org/home",
+        "time" : {
+          "start" : 1644774675442,
+          "stop" : 1644774675442,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "f2fe68bec0dabd4f",
+        "reportUrl" : "http://localhost:8080/job/test/52/allure/#testresult/f2fe68bec0dabd4f",
+        "status" : "broken",
+        "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: 'chromedriver' executable needs to be in PATH. Please see https://chromedriver.chromium.org/home",
+        "time" : {
+          "start" : 1644771781461,
+          "stop" : 1644771781461,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "4b78b20b63cec2b1.json",
+  "parameterValues" : [ ]
+}

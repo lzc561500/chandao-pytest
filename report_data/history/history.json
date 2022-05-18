@@ -1,0 +1,206 @@
+{
+  "a6173ced816beea95dd979b33bc1541f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 4,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "2b634dfb8cc9d97f",
+      "reportUrl" : "http://localhost:8080/job/test/72/allure/#testresult/2b634dfb8cc9d97f",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: 'chromedriver' executable needs to be in PATH. Please see https://chromedriver.chromium.org/home",
+      "time" : {
+        "start" : 1644937843773,
+        "stop" : 1644937843773,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "ddcb5f39da380bd",
+      "reportUrl" : "http://localhost:8080/job/test/71/allure/#testresult/ddcb5f39da380bd",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: 'chromedriver' executable needs to be in PATH. Please see https://chromedriver.chromium.org/home",
+      "time" : {
+        "start" : 1644937806327,
+        "stop" : 1644937806327,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "e160125e13d64bd3",
+      "reportUrl" : "http://localhost:8080/job/test/70/allure/#testresult/e160125e13d64bd3",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: 'chromedriver' executable needs to be in PATH. Please see https://chromedriver.chromium.org/home",
+      "time" : {
+        "start" : 1644774675790,
+        "stop" : 1644774675791,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "220e3a9867b891a8",
+      "reportUrl" : "http://localhost:8080/job/test/52/allure/#testresult/220e3a9867b891a8",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: 'chromedriver' executable needs to be in PATH. Please see https://chromedriver.chromium.org/home",
+      "time" : {
+        "start" : 1644771781670,
+        "stop" : 1644771781670,
+        "duration" : 0
+      }
+    } ]
+  },
+  "9019ca1c4aeda8b59c4e17ed39c9b453" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 4,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "f6af7dc4b18516bc",
+      "reportUrl" : "http://localhost:8080/job/test/72/allure/#testresult/f6af7dc4b18516bc",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: 'chromedriver' executable needs to be in PATH. Please see https://chromedriver.chromium.org/home",
+      "time" : {
+        "start" : 1644937843726,
+        "stop" : 1644937843726,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "bd37af8401760956",
+      "reportUrl" : "http://localhost:8080/job/test/71/allure/#testresult/bd37af8401760956",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: 'chromedriver' executable needs to be in PATH. Please see https://chromedriver.chromium.org/home",
+      "time" : {
+        "start" : 1644937806248,
+        "stop" : 1644937806248,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "4f16edc597859e17",
+      "reportUrl" : "http://localhost:8080/job/test/70/allure/#testresult/4f16edc597859e17",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: 'chromedriver' executable needs to be in PATH. Please see https://chromedriver.chromium.org/home",
+      "time" : {
+        "start" : 1644774675753,
+        "stop" : 1644774675753,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "9366fc0a8d1d2314",
+      "reportUrl" : "http://localhost:8080/job/test/52/allure/#testresult/9366fc0a8d1d2314",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: 'chromedriver' executable needs to be in PATH. Please see https://chromedriver.chromium.org/home",
+      "time" : {
+        "start" : 1644771781623,
+        "stop" : 1644771781623,
+        "duration" : 0
+      }
+    } ]
+  },
+  "d1edcc5b43aeec43cdb868fb7de00f45" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 4,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "b9927c3e7902f6c3",
+      "reportUrl" : "http://localhost:8080/job/test/72/allure/#testresult/b9927c3e7902f6c3",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: 'chromedriver' executable needs to be in PATH. Please see https://chromedriver.chromium.org/home",
+      "time" : {
+        "start" : 1644937843695,
+        "stop" : 1644937843695,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "8ff1492e16f279f4",
+      "reportUrl" : "http://localhost:8080/job/test/71/allure/#testresult/8ff1492e16f279f4",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: 'chromedriver' executable needs to be in PATH. Please see https://chromedriver.chromium.org/home",
+      "time" : {
+        "start" : 1644937806202,
+        "stop" : 1644937806202,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "f372fc9ea091b93e",
+      "reportUrl" : "http://localhost:8080/job/test/70/allure/#testresult/f372fc9ea091b93e",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: 'chromedriver' executable needs to be in PATH. Please see https://chromedriver.chromium.org/home",
+      "time" : {
+        "start" : 1644774675687,
+        "stop" : 1644774675687,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "72831dfd39a91b30",
+      "reportUrl" : "http://localhost:8080/job/test/52/allure/#testresult/72831dfd39a91b30",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: 'chromedriver' executable needs to be in PATH. Please see https://chromedriver.chromium.org/home",
+      "time" : {
+        "start" : 1644771781576,
+        "stop" : 1644771781576,
+        "duration" : 0
+      }
+    } ]
+  },
+  "25447551129b1fb0e5a41023583749cd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 4,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "abd5a4ade1b70f9d",
+      "reportUrl" : "http://localhost:8080/job/test/72/allure/#testresult/abd5a4ade1b70f9d",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: 'chromedriver' executable needs to be in PATH. Please see https://chromedriver.chromium.org/home",
+      "time" : {
+        "start" : 1644937843508,
+        "stop" : 1644937843508,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "85eb1eef30ca6a09",
+      "reportUrl" : "http://localhost:8080/job/test/71/allure/#testresult/85eb1eef30ca6a09",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: 'chromedriver' executable needs to be in PATH. Please see https://chromedriver.chromium.org/home",
+      "time" : {
+        "start" : 1644937806045,
+        "stop" : 1644937806045,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "2dda6326ed9f33a6",
+      "reportUrl" : "http://localhost:8080/job/test/70/allure/#testresult/2dda6326ed9f33a6",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: 'chromedriver' executable needs to be in PATH. Please see https://chromedriver.chromium.org/home",
+      "time" : {
+        "start" : 1644774675442,
+        "stop" : 1644774675442,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "f2fe68bec0dabd4f",
+      "reportUrl" : "http://localhost:8080/job/test/52/allure/#testresult/f2fe68bec0dabd4f",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: 'chromedriver' executable needs to be in PATH. Please see https://chromedriver.chromium.org/home",
+      "time" : {
+        "start" : 1644771781461,
+        "stop" : 1644771781461,
+        "duration" : 0
+      }
+    } ]
+  }
+}

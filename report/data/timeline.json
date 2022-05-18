@@ -1,0 +1,65 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-TSJF9CB",
+    "children" : [ {
+      "name" : "14316-MainThread",
+      "children" : [ {
+        "name" : "test_addCompany",
+        "uid" : "4b78b20b63cec2b1",
+        "parentUid" : "3459f72d2c8f1c31462db4b3efea0312",
+        "status" : "passed",
+        "time" : {
+          "start" : 1644938331774,
+          "stop" : 1644938359588,
+          "duration" : 27814
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_sc_login[data1]",
+        "uid" : "69d5b18306603b27",
+        "parentUid" : "3459f72d2c8f1c31462db4b3efea0312",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644938372669,
+          "stop" : 1644938378890,
+          "duration" : 6221
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'用户名': 'lzc4014688', '密码': '123456678'}" ]
+      }, {
+        "name" : "test_sc_login[data0]",
+        "uid" : "53363e166a4721a2",
+        "parentUid" : "3459f72d2c8f1c31462db4b3efea0312",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644938363707,
+          "stop" : 1644938370156,
+          "duration" : 6449
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'用户名': 'liming', '密码': '12345'}" ]
+      }, {
+        "name" : "test_sc_login[data2]",
+        "uid" : "7ec34791202b9127",
+        "parentUid" : "3459f72d2c8f1c31462db4b3efea0312",
+        "status" : "passed",
+        "time" : {
+          "start" : 1644938381357,
+          "stop" : 1644938387593,
+          "duration" : 6236
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'用户名': 'admin', '密码': 'lzc4014688'}" ]
+      } ],
+      "uid" : "3459f72d2c8f1c31462db4b3efea0312"
+    } ],
+    "uid" : "10a25a87ed3b881b53267cb5ed035715"
+  } ]
+}

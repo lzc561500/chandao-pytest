@@ -1,0 +1,73 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "添加公司名称",
+    "children" : [ {
+      "name" : "登录后添加公司信息",
+      "children" : [ {
+        "name" : "test_addCompany",
+        "uid" : "4b78b20b63cec2b1",
+        "parentUid" : "85af2f40eb4e253143af4d110baf214a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1644938331774,
+          "stop" : 1644938359588,
+          "duration" : 27814
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "85af2f40eb4e253143af4d110baf214a"
+    } ],
+    "uid" : "04c1e2283257a507d94db77021df2878"
+  }, {
+    "name" : "禅道登录用例",
+    "children" : [ {
+      "name" : "输入用户名和密码",
+      "children" : [ {
+        "name" : "test_sc_login[data0]",
+        "uid" : "53363e166a4721a2",
+        "parentUid" : "405e58ebb983c99adc4ecfa192667473",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644938363707,
+          "stop" : 1644938370156,
+          "duration" : 6449
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'用户名': 'liming', '密码': '12345'}" ]
+      }, {
+        "name" : "test_sc_login[data1]",
+        "uid" : "69d5b18306603b27",
+        "parentUid" : "405e58ebb983c99adc4ecfa192667473",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644938372669,
+          "stop" : 1644938378890,
+          "duration" : 6221
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'用户名': 'lzc4014688', '密码': '123456678'}" ]
+      }, {
+        "name" : "test_sc_login[data2]",
+        "uid" : "7ec34791202b9127",
+        "parentUid" : "405e58ebb983c99adc4ecfa192667473",
+        "status" : "passed",
+        "time" : {
+          "start" : 1644938381357,
+          "stop" : 1644938387593,
+          "duration" : 6236
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'用户名': 'admin', '密码': 'lzc4014688'}" ]
+      } ],
+      "uid" : "405e58ebb983c99adc4ecfa192667473"
+    } ],
+    "uid" : "dccfe5698a00d36f178ba31dc98ac9dc"
+  } ]
+}
